@@ -1,5 +1,5 @@
 
-##PROFISSIONAIS DO DESENVOLVIMENTO MODERNO DE SOFTWARE
+## PROFISSIONAIS DO DESENVOLVIMENTO MODERNO DE SOFTWARE
 
 📍SISTEMA DESKTOP
 > Sistemas desktop são sistemas autônomos que podem ser instalados no computador.  Essa instalação normalmente é realizada por um arquivo executável.
